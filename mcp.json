@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "west-kite": {
+      "type": "http",
+      "url": "https://app.westkite.com/mcp"
+    }
+  }
+}

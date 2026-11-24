@@ -1,0 +1,30 @@
+{
+  "name": "west-kite",
+  "displayName": "West Kite",
+  "version": "1.0.0",
+  "description": "Sourced US property records: owners and the people behind LLCs, sales, loans, zoning, permits, site risks and demographics.",
+  "author": {
+    "name": "West Kite",
+    "email": "hello@westkite.com"
+  },
+  "homepage": "https://westkite.com/mcp",
+  "repository": "https://github.com/west-kite-org/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "west-kite",
+    "real-estate",
+    "property-data",
+    "property-owners",
+    "parcels",
+    "commercial-real-estate",
+    "zoning",
+    "site-selection",
+    "public-records",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": ["real-estate", "property-data", "public-records", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
